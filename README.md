@@ -131,3 +131,13 @@ function overlay(a,b) = a union b;
 var merged = overlay('graph1.txt', 'graph2.txt');
 print merged
 ```
+
+### 5. Funzione con operazioni tra grafi
+
+```minigr
+function cap(g,h) = g intersect h;
+var g1 = 'graph1.txt';
+var g2 = 'graph4.txt';
+var result = cap(g1, g2);
+print result
+```
