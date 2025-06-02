@@ -78,7 +78,7 @@ print merged
 * **graph1.txt**, **graph2.txt, graph4.txt** – liste di archi `u,v`.
 * **pair.txt** – un singolo arco `u,v` che funge da coppia di nodi di interesse (es. per `shortest`).
 
-> ⚠️ Se i file d’esempio vengono rimossi dal workspace, ricaricateli prima di eseguire gli esempi del README.
+> ⚠️ Se i file d’esempio vengono rimossi dal workspace, questi devono essere ricaricati prima di eseguire gli esempi seguenti.
 
 ---
 
