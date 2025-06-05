@@ -9,7 +9,7 @@ Il linguaggio supporta:
 * operazioni sui grafi (`union`, `intersect`, `difference`, `shortest`, `path`);
 * dichiarazioni di variabili;
 * comandi di controllo di flusso (`if/else`, `while`);
-* funzioni definite dall’utente;
+* funzioni definite dall’utente (`function`);
 * caricamento di grafi da file esterni;
 * visualizzazione dei grafi tramite il comando `print`.
 
